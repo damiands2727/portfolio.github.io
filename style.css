@@ -6,7 +6,7 @@ body {
 .foto_main{
     width: 10%;
     position: relative;
- 
+    border-radius: 50%;
 }
 
 .fotosubmenu{
